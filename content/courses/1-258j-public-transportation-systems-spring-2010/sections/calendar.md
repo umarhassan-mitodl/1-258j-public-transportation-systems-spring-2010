@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 1-258j-public-transportation-systems-spring-2010
+hide_download: true
+hide_download_original: null
 layout: course_section
 menu:
   1-258j-public-transportation-systems-spring-2010:
