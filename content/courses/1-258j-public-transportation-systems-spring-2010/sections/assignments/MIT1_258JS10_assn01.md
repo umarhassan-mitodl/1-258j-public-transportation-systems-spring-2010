@@ -6,8 +6,6 @@ file: null
 file_location: /coursemedia/1-258j-public-transportation-systems-spring-2010/29b7fdca6df6408f7d52028f4714ea0e_MIT1_258JS10_assn01.pdf
 file_size: null
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: MIT1_258JS10_assn01.pdf
